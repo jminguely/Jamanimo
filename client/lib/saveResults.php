@@ -1,5 +1,5 @@
 <?php
-$db = mysql_connect('localhost','jamanimo','jam123') or die("Database error"); 
+$db = mysql_connect('localhost','','') or die("Database error"); 
 mysql_select_db('jamanimo', $db); 
 
 $queryGetSondId = "SELECT song_id FROM songs WHERE trackname = '".$_POST['trackName']."'";
