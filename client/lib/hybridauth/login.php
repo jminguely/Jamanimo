@@ -14,7 +14,7 @@ error_reporting(E_ALL);
 
 require_once( "Hybrid/Auth.php" );
 
-$db = mysql_connect('localhost','jamanimo','jam123') or die("Database error"); 
+$db = mysql_connect('localhost','','') or die("Database error"); 
 mysql_select_db('jamanimo', $db); 
 
     $config = array( 
