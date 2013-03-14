@@ -1,0 +1,67 @@
+{
+    "accueilMobile":"Welcome to the Arche.<br/>Click here to enter the bar!",
+    "accueilNoMobile":"Unable to access the bar with this browser",
+    "loginWith":"login you with: &nbsp;",
+    "voteForUs":"Vote for Us !",
+    "loading":"Loading ",
+
+    "button":{
+       "play":"Play",
+       "quit":"Return",
+       "chat":"Messages",
+       "fin":"End"
+    },
+
+    "tableau":{
+       "rooms":"Running Games",
+       "hosts":"Receiver",
+       "dispo":"Availability",
+       "create":"Create a party"
+    },
+
+    "difficulty":{
+       "easy":"Easy",
+       "medium":"Medium",
+       "hard":"Hard"
+    },
+    "jukebox":{
+       "gameRunning":"Game in progress, please wait! "
+    },
+    "dancefloor":{
+       "start":"Start",
+       "jukebox":"Return to Jukebox "
+    },
+    "character":{
+        "flamand":{
+            "description_infobox":"60 years old and originaly from South Africa. This pink flamingo is single and proud of it. Rosbery is world wide known for her acting skills. The climax of her career was to play  the mallet in Alice in wonderland.",
+            "title_infobox":"Roseberry",
+            "subtitle_infobox":"Flamingo"
+        },
+        "panda":{
+            "description_infobox":"Originaly from China, this panda is a model for WWF. He loves to have his feet massaged, his motorbike and tatoos. Baohbaoh is divorced since his wife gave birth. He didn't want any children because his biggest dream was to start up a punk band.",
+            "title_infobox":"Baohbaoh",
+            "subtitle_infobox":"Panda"
+        },
+        "dodo":{
+            "description_infobox":"138 years old, retired and originaly from the Maurices islands, this old dodo coach doesnt let the others tell her what to do. Widowed since a long time, she is strong minded. Only dancing can make her forget her past.",
+            "title_infobox":"the survivor",
+            "subtitle_infobox":"Dodo"
+        },
+        "morse":{
+            "description_infobox":"30 years old, originaly from the north pole, this walrus likes tranquility and fish fingers spiced with coriander. Bob has been in a relationship for 3 weeks, 2 days and 24 minutes, ans is sure to have found the womand of his life. This dentist hangs out in this bar to make friends.",
+            "title_infobox":"Bob",
+            "subtitle_infobox":"The Walrus"
+        },
+        "paresseux":{
+            "description_infobox":"23 years old, originaly from south America and hairdresser, this sloth lives bare feet all year long. Papallow is polygamous and proud to be. He loves bollywood movies and tandoori chicken but hates (flute de paon). His dream is to become a choreographer in Bollywood which is why he hangs out in this bar.",
+            "title_infobox":"Papalow",
+            "subtitle_infobox":"Sloth"
+        },
+        "loris":{
+            "description_infobox":"17 years old and originaly from Asia, this (loris) never goes out without his cap and his earphones. Dj-low hates to put contact lenses and bites his nails a lot. His passion is breakdancing, he comes a lot to dance in this bar to prove that he's the best.",
+            "title_infobox":"DJ-low",
+            "subtitle_infobox":"Loris"
+        }
+ 
+    }
+}

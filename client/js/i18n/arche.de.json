@@ -1,0 +1,66 @@
+{
+    "accueilMobile":"Willkommen bei der Arche. Klicke auf die Tür um reinzukommen",
+    "accueilNoMobile":"Unmöglich mit diesem Navigator zur Bar zu gelangen",
+    "loginWith":"Logge dich mit deinem Konto ein",
+    "voteForUs":"Stimme für uns !",
+    "loading":"Loading ",
+
+    "button":{
+       "play":"Spielen",
+       "quit":"Zurück",
+       "chat":"Nachricht",
+       "fin":"Ende"
+    },
+
+    "tableau":{
+       "rooms":"Partie zugange",
+       "hosts":"Gäste",
+       "dispo":"Verfügbarkeiten",
+       "create":"Eine Partie erstellen"
+    },
+
+    "difficulty":{
+       "easy":"leicht",
+       "medium":"mittel", 
+       "hard":"schwierig"
+    },
+    "jukebox":{
+       "gameRunning":"Spielzeit, bitte warten !"
+    },
+    "dancefloor":{
+       "start":"Starten", 
+       "jukebox":"Zurück zum Jukebox"
+    },
+    "character":{
+        "flamand":{
+            "description_infobox":"Im Alter von 60 Jahren, ursprünglich aus Sud Afrika stammend. Dieser Flamingo ist single und stolz darauf. « Rosebery » ist, dank ihrem Schauspieltalent, in der ganzen Welt bekannt. Der Höhepunkt in ihrer Karriere war, die Krocketschlägerin in « Alice im Wunderland » zu verkörpern ».",
+            "title_infobox":"Roseberry",
+            "subtitle_infobox":"Flamingo"
+        },
+        "panda":{
+            "description_infobox":"Ursprüngliche aus China, dieser Panda ist das Modell für die WWF. Was er besonders liebt, ist sich die Füsse massieren zu lassen, sein Motorrad und seine Tätowierungen. « BaohBaoh » ist seit der Geburt seines Kindes von seiner Frau geschieden. Er wollte keine Kinder, sein grösster Traum ist nämlich eine Punkgruppe zu gründen.",
+            "title_infobox":"Baohbaoh",
+            "subtitle_infobox":"Panda"
+        },
+        "dodo":{
+            "description_infobox":"Im Alter von 138 Jahren, pensioniert und ursprünglich aus Mauritius, diese alte und eingängige Dronte lässt sich nichts vormachen. Witwe seit langem, hat sie einen sehr starken Charakter. Nur dank dem Tanz vergisst sie alle ihre schlechte Erinnungen.",
+            "title_infobox":"Die Überlebende",
+            "subtitle_infobox":"Dodo"
+        },
+        "morse":{
+            "description_infobox":"Im Alter von 30 Jahren, ursprünglich aus dem Nordpol, dieses Walross liebt die Ruhe und die mit Koriander gewürzten Fischsticks. « Bob » ist in einer Beziehung seit drei Wochen zwei Tage und 24 Minuten und ist sich sicher die Frau seines Lebens gefunden zu haben. Dieser Zahnarzt besucht diese Bar um Freundschaften zu schliessen.",
+            "title_infobox":"Walross",
+            "subtitle_infobox":"Bob"
+        },
+        "paresseux":{
+            "description_infobox":"23 Jahre alt, aus Sudamerika stammend und Friseur, dieses Faultier lebt barfuss das ganze Jahr über. « Papalow » est polygam und steht dazu. Er liebt über alles bollywood-Filme und Poulet à la tandoori, findet aber die Panflöte unausstehlich. Sein Traum wäre Choreograf in Bollywood zu werden, deshalb besucht er diese Bar.",
+            "title_infobox":"Faultier",
+            "subtitle_infobox":"Papalow"
+        },
+        "loris":{
+            "description_infobox":"Im Alter von 17 Jahre, aus Asien, dieser Lori geht nie ohne seine Schirmmütze und seinen Kopfhörer aus dem Haus. « Dj-low » hasst es seine Linsen reinzutun und knabbert an seinen Nägeln. Seine grösste Leidenschaft ist break-dance. Er kommt sehr oft in diese Bar um sich zu bestätigen, dass er der Beste ist.",
+            "title_infobox":"DJ-low",
+            "subtitle_infobox":"Loris"
+        }
+    }
+}

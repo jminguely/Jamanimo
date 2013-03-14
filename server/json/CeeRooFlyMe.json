@@ -1,0 +1,15 @@
+{
+    "status": {
+        "code": 200
+    },
+    "artist": "Cee-Roo",
+    "title": "Fly me to the moon",
+    "auftakt_result": {
+        "clicks_per_bar": 8,
+        "overall_tempo": 119.026772,
+        "overall_tempo_straight": 119.001907,
+        "click_marks": {
+            
+        }
+    }
+}

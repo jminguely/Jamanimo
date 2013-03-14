@@ -1,0 +1,67 @@
+{
+    "accueilMobile":"Bienvenue à l'Arche.<br/>Clique ici pour rentrer dans le bar !",
+    "accueilNoMobile":"Impossible d'accéder au bar avec ce navigateur",
+    "loginWith":"Connecte-toi avec ton compte: &nbsp;",
+    "voteForUs":"Votez pour nous !",
+    "loading":"Chargement ",
+
+    "button":{
+       "play":"Jouer",
+       "quit":"Retour",
+       "chat":"Messages",
+       "fin":"Fin"
+    },
+
+    "tableau":{
+       "rooms":"Parties en cours",
+       "hosts":"Hôtes",
+       "dispo":"Disponibilités",
+       "create":"Créer une partie"
+    },
+
+    "difficulty":{
+       "easy":"Facile",
+       "medium":"Moyen",
+       "hard":"Difficile"
+    },
+    "jukebox":{
+       "gameRunning":"Partie en cours, veuillez patienter !"
+    },
+    "dancefloor":{
+       "start":"Démarrer",
+       "jukebox":"Retourner au Jukebox"
+    },
+    "character":{
+        "flamand":{
+            "description_infobox":"Agée de 60 ans, originaire d’Afrique du Sud. Ce flamant rose est célibataire et fière de l’être. « Rosebery » est connue dans tout le monde pour ces talents d’actrices. Son point culminant dans sa carrière a été d’incarner le maillet de croquet dans « Alice au Pays des merveilles ».",
+            "title_infobox":"Roseberry",
+            "subtitle_infobox":"Flamant"
+        },
+        "panda":{
+            "description_infobox":"Originaire de Chine, ce panda est mannequin pour le WWF. Ce qu’il adore c’est se faire masser les pieds, sa moto et les tatouages. « BaohBaoh »  est divorcé depuis l’accouchement de sa femme. Il ne voulait pas d’enfants car son rêve le plus cher consiste à réaliser un groupe de punk.",
+            "title_infobox":"Baohbaoh",
+            "subtitle_infobox":"Panda"
+        },
+        "dodo":{
+            "description_infobox":"Agée de 138 ans, retraitée et originaire de l’Ile Maurice, cette vieille et entrainante dodo ne se laisse pas faire. Veuve depuis bien longtemps son caractère est bien trempé. Seul la danse lui fait oublier ces méchants souvenirs.",
+            "title_infobox":"La Survivante",
+            "subtitle_infobox":"Dodo"
+        },
+        "morse":{
+            "description_infobox":"Agé de 30 ans, originaire du pôle nord, ce morse aime le calme et les sticks de poisson agrémentés de coriandre. « Bob » est en couple depuis trois semaines 2 jours et 24 minutes, et pense avoir trouver la femme de sa vie. Ce dentiste fréquente ce bar pour se faire des amis.",
+            "title_infobox":"Bob",
+            "subtitle_infobox":"Morse"
+        },
+        "paresseux":{
+            "description_infobox":"Agé de 23 ans, originaire d’Amérique du sud et coiffeur, ce paresseux vit à pied nu toute l’année. « Papalow » est polygame et l’assume. Il adore les films bollywood et le poulet tandoori, mais ne supporte pas la flûte de paon. Son rêve serait de devenir chorégraphe à Bollywood, c’est pourquoi il fréquente ce bar.",
+            "title_infobox":"Papalow",
+            "subtitle_infobox":"Paresseux"
+        },
+        "loris":{
+            "description_infobox":"Agé de 17 ans, originaire d ‘Asie ce Loris ne sort jamais sans sa casquette ni ses écouteurs. « Dj-low » déteste mettre ses lentilles de contact et se ronge souvent les ongles. Sa passion est le break-dance, il vient souvent danser dans ce bar pour prouver qu’il est le meilleur. ",
+            "title_infobox":"DJ-low",
+            "subtitle_infobox":"Loris"
+        }
+ 
+    }
+}

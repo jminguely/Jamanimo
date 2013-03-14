@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# Illustration TEAM
+	Arnaud Dousse
+	Simon Chassot
+
+# Development TEAM
+	Julien Minguely -- minguely.ch
+	Lucien Roussy
+
+# Communication TEAM
+	Maïla Wyssmüller
+	Clarisse Hernikat
+
+# THANKS
+    Michaël Caillet -- Tutor -- mi-ca.ch
+    Milena Farioli -- Tutor
+
+# TECHNOLOGY COLOPHON
+    HTML5, CSS3
+    jQuery, Modernizr
+    CreateJS
