@@ -3,6 +3,12 @@ Jamanimo
 
 Musical browser game for the Swiss Junior Web Awards
 
+Technologie
+========
+Graphics & Animation & Audio : CreateJS
+Server-side + websocket: NodeJS + Socket.io
+
+
 TEAM
 ========
 Arnaud Dousse<br/>
