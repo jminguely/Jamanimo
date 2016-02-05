@@ -1,11 +1,11 @@
 Jamanimo
 ========
 
-Musical browser game for the Swiss Junior Web Awards
+Musical browser game for the Swiss Junior Web Awards<br/>
 
 Technologie
 ========
-Graphics & Animation & Audio : CreateJS
+Graphics & Animation & Audio : CreateJS<br/>
 Server-side + websocket: NodeJS + Socket.io
 
 
